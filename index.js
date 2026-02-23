@@ -1,4 +1,4 @@
-//Personal Information
+gh repo create//Personal Information
 const firstName = "Stacey";
 const lastName = "Sitton";
 const age = 43;

@@ -1,4 +1,4 @@
-## Node_Modules and its relationship with package.json.
+git ## Node_Modules and its relationship with package.json.
 Package.Json holds the information about the metadata and dependencies a 
 project requires. Once a command is given, a computer will look at what is required in the package.json ((names and version numbers)) file and then it will load what is required (actual code, program, extension)  into the node_module folder so that our index can use them.
 
